@@ -1,5 +1,8 @@
 # argoverse_cbgs_kf_tracker
 
+In this repo, I implement a script (get_stats.py) to estimate the Kalman Filter's covariance matrices which facilitates the 3D Multi-Object Tracking.
+
+---
 
 ## Precomputed 3D Detections
 The precomputed 3D detections were computed on the Argoverse dataset using the method described in [Class-balanced Grouping and Sampling for Point Cloud 3D Object Detection](https://arxiv.org/abs/1908.09492), with detection range increased to 100 meters in each direction and pruned to ROI to match Argoverse annotation policy.
