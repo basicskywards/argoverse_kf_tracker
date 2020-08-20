@@ -1,6 +1,6 @@
 # argoverse_cbgs_kf_tracker
 
-In this repo, I implement a script (get_stats.py) to estimate the Kalman Filter's covariance matrices which facilitates the 3D Multi-Object Tracking.
+In this repo, I implement a script (get_stats.py) to estimate the Kalman Filter's covariance matrices which facilitate the 3D Multi-Object Tracking.
 
 ---
 
