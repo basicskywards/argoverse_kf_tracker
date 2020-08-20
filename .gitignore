@@ -1,0 +1,7 @@
+__pycache__
+*.bin
+results/
+data/
+*.zip
+*.tar.*
+temp_files/
